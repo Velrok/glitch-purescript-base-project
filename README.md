@@ -1,10 +1,10 @@
 # A purescript base project for [Glitch.com](https://glitch.com)
 
-This is a basic Purescript project.
+<a href="https://glitch.com/edit/#!/remix/marvelous-tendency">
+  <img src="https://cdn.glitch.com/2bdfb3f8-05ef-4035-a06e-2043962a3a13%2Fremix%402x.png?1513093958726" alt="remix button" aria-label="remix" height="33">
+</a>
 
-  <div class="glitch-embed-wrap" style="height: 353px; width: 100%;">
-      <iframe src="https://glitch.com/embed/#!/embed/marvelous-tendency?path=src/Main.purs&previewSize=25" alt="marvelous-tendency on glitch" style="height: 100%; width: 100%; border: 0;"\>
-  </div>
+This is a basic Purescript project.
 
 ## Haskell code highlighting for Glitch
 
