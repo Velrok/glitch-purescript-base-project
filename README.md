@@ -1,21 +1,10 @@
-Welcome to Glitch
-=================
-
-Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
-
-**Glitch** is the friendly community where you'll build the app of your dreams. Glitch lets you instantly create, remix, edit, and host an app, bot or site, and you can invite collaborators or helpers to simultaneously edit code with you.
-
-Find out more [about Glitch](https://glitch.com/about).
-
-
-Your Project
-------------
+# A purescript base project for [Glitch.com](https://glitch.com)
 
 This is a basic Purescript project.
 
-The main file is `src/Main.purs`.
-Purescript still uses bower to manage dependencies, so if you need any extra purescript packages, put them into `bower.json`.
-We also have a npm `package.json` which installs the purescript tools, needed to compile and run your app.
+  <div class="glitch-embed-wrap" style="height: 353px; width: 100%;">
+      <iframe src="https://glitch.com/embed/#!/embed/marvelous-tendency?path=src/Main.purs&previewSize=25" alt="marvelous-tendency on glitch" style="height: 100%; width: 100%; border: 0;"\>
+  </div>
 
 ## Haskell code highlighting for Glitch
 
